@@ -22,7 +22,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-6. Run ```source("run_analysis.R")```, then it will generate a new file ```tiny_data.txt``` in your working directory.
+6. Run ```run_analysis.R```, then it will generate a new file ```tiny_data.txt``` in your working directory.
 
 ## Dependencies
 
