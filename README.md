@@ -21,9 +21,10 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
 4. Appropriately labels the data set with descriptive activity names.
-5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-6. Run ```run_analysis.R```, then it will generate a new file ```tiny_data.txt``` in your working directory.
 
-## Dependencies
+## tiny_data.txt
 
-```run_analysis.R``` file will help you to install the dependencies automatically. It depends on ```reshape2``` and ```data.table```. 
+This is an independent tidy data set with the average of each variable for each activity and each subject from ```run_analysis.R```.
+
+## codebook.md
+A code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
