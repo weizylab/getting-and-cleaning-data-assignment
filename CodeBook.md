@@ -1,6 +1,6 @@
 # CodeBook
 
-This is a code book that describes the dataset
+This is a code book that describes the dataset.
 
 ## Source
 
